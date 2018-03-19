@@ -1,0 +1,10 @@
+coverage
+docs
+test
+
+.ackrc
+.codeclimate.yml
+.travis.yml
+.vimproj
+bower.json
+release
